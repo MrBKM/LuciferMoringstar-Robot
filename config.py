@@ -12,29 +12,29 @@ def is_enabled(value, default):
 
 
 # Creator
-CREATOR_NAME = os.environ.get("CREATOR_NAME", "𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳")
-CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "PR0FESS0_99")
+CREATOR_NAME = os.environ.get("CREATOR_NAME", "Bikash")
+CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "Bikash_9999")
 
 # Account
-API_HASH = os.environ.get("API_HASH", "5b1d0992294a67cb54512a4fafeb0c88")
-API_ID = os.environ.get("API_ID", "6170803")
+API_HASH = os.environ.get("API_HASH", "8719d11809492f836004a39b42599215")
+API_ID = os.environ.get("API_ID", "12694006")
 # About Bot
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "1905228806:AAH2iahJcg5J6bqpcW11jB9KajwHbIjaslGTY")
-PICS = os.environ.get("PICS", "https://telegra.ph/file/034d53b5ed1d920ecab8b.jpg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5567354112:AAH3f9bi60I8HiZ5mCu38-mBeMCkdd62T1I")
+PICS = os.environ.get("PICS", "https://telegra.ph/file/913f9af3d11d8c0306043.jpg")
 # Database
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "LuciferMoringstar-Robot")
-DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://{Username}:{Passs}@cluster0.{clusterID}.mongodb.net/myFirstDatabase?retryWrites=true{iD}=majority")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Balmiki")
+DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Balmiki:Balmiki@cluster0.lmden.mongodb.net/?retryWrites=true&w=majority")
 # Chats & Users
-ADMINS = os.environ.get("ADMINS", "2028425293 1637186875")
-SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "Mo_Tech_Group")
-AUTH_CHANNEL = os.environ.get("AUTH_CHANNEL", "-1001685151224")
-CHANNELS = [int(ch) if search.search(ch) else ch for ch in os.environ.get("CHANNELS", "-1001784382279").split()]
-LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001590063851")
-GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001570208190")
+ADMINS = os.environ.get("ADMINS", "953377581 5630723610")
+SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "Tk_movies_adda")
+AUTH_CHANNEL = os.environ.get("AUTH_CHANNEL", "-1001506877410")
+CHANNELS = [int(ch) if search.search(ch) else ch for ch in os.environ.get("CHANNELS", "-1001822275183").split()]
+LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001646581413")
+GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001576725431")
 FILTER_DEL_SECOND = int(os.environ.get("FILTER_DEL_SECOND", "600"))
 
 # AutoFilter
-AUTH_GROUPS = os.environ.get("AUTH_GROUPS", "")
-AUTH_USERS = [int(user) if search.search(user) else user for user in os.environ.get('AUTH_USERS', '').split()]
+AUTH_GROUPS = os.environ.get("AUTH_GROUPS", "-1001510283128")
+AUTH_USERS = [int(user) if search.search(user) else user for user in os.environ.get('AUTH_USERS', '953377581 5630723610').split()]
 FILTER_BUTTONS = os.environ.get("FILTER_BUTTONS", "10")
 PROTECT_FILES = is_enabled((os.environ.get('PROTECT_FILES', "True")), True) 
