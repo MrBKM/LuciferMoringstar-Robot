@@ -28,9 +28,9 @@ DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Balmiki:Balmiki@clu
 ADMINS = os.environ.get("ADMINS", "953377581 5630723610")
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "Tk_movies_adda")
 AUTH_CHANNEL = os.environ.get("AUTH_CHANNEL", "-1001506877410")
-CHANNELS = [int(ch) if search.search(ch) else ch for ch in os.environ.get("CHANNELS", "-1001895439828").split()]
-LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001839468546")
-GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001886092713")
+CHANNELS = [int(ch) if search.search(ch) else ch for ch in os.environ.get("CHANNELS", "-1001822275183").split()]
+LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001646581413")
+GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001746932666")
 FILTER_DEL_SECOND = int(os.environ.get("FILTER_DEL_SECOND", "600"))
 
 # AutoFilter
