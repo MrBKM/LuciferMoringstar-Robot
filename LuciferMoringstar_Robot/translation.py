@@ -27,17 +27,16 @@
 START_MESSAGE = """
 <i><b>Hello 👋 {mention},</b>
 
-<b>I Am Not Only <a href='http://t.me/Tk_World72_bot'>𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
+<b>I Am Not Only <a href='http://t.me/LatestTkEntertainment_Bot'>𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
 
 <b>Better You Click Below & Join 𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻 & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
 
 <b>For More Information Click ℹ️ Help</b></i>"""
 
 HELP_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {mention}
-𝙸 𝙲𝙰𝙽 𝙶𝚄𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵𝙵 [{name}](https://t.me/{username})', 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙰𝙽𝙳 𝙷𝙾𝚆 𝚃𝙾 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝚄𝚂𝙴 𝚃𝙷𝙴𝙼. 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙽𝙰𝚅𝙸𝙶𝙰𝚃𝙴 𝚃𝙷𝙴𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴𝚂
-"""
+<i><b>Hello 👋 {mention},</i></b>
 
+<i><b>I can Guide You Through All Of <a href="https://t.me/LatestTkEntertainment_Bot">𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules.</i></b>"""
 
 ABOUT_MESSAGE = """<b>
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1
