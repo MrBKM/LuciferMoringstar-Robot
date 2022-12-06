@@ -39,7 +39,7 @@ HELP_MESSAGE = """
 <i><b>I can Guide You Through All Of <a href="https://t.me/LatestTkEntertainment_Bot">𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules.</i></b>"""
 
 ABOUT_MESSAGE = """<b>
-𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1
+𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Bikash](t.me/BIKASH_9999)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : {name}
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 3 : {py3_version}
