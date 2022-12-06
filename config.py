@@ -19,7 +19,7 @@ CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "BIKASH_9999")
 API_HASH = os.environ.get("API_HASH", "8719d11809492f836004a39b42599215")
 API_ID = os.environ.get("API_ID", "12694006")
 # About Bot
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5809560597:AAGWkjhGYymEnYxDknm00yenrzCfYirdgBY")
 PICS = os.environ.get("PICS", "https://telegra.ph/file/913f9af3d11d8c0306043.jpg")
 # Database
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "Balmiki")
