@@ -63,7 +63,25 @@ WELCOME_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {group_name}"""
 
 FILECAPTION_MESSAGE = """
-• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @Night_MovieZ"""
+<b>╭──[ミ★ TK ENTERTAINMENT ★彡]──╮
+
+├• 👋 𝑯𝒆𝒍𝒍𝒐 {mention}
+
+├• ✅ 𝐘𝐨𝐮𝐫 𝐅𝐢𝐥𝐞 𝐈𝐬 𝐑𝐞𝐚𝐝𝐲
+
+├• 🎬 𝐓𝐢𝐭𝐥𝐞 : {file_name}
+
+├• 💾 𝐒𝐢𝐳𝐞 : {size}
+
+├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+├• 🤖 <a href ='http://t.me/Panchmisali_7_Bot'>𝗔𝗱𝗺𝗶𝗻 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁
+</a>
+├• 🤖 <a href ='https://t.me/Panchmisali_2_Bot'>𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗕𝗼𝘁</a>
+
+├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= 'https://t.me/Tk_movies_adda'>𝑻𝑲 𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a>
+
+╰──────[ 👑 ]───────╯</b>"""
 
 ADMIN_CMD_MESSAGE = """
 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
