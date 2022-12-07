@@ -53,8 +53,7 @@ CHAT_LOGS_MESSAGE = """
 • **{title}**\n• `{id}`\n• **{join}**"""
 
 SPELLMODE_MESSAGE = """
-**__Hello 👋 {mention}**__
-**__Couldn't Find {query} ?  Please Click Your Request Name**__"""
+<b>Hello 👋 </b>{mention}\n\n<b>I Couldn't 🔍 Find </b>{query}<b> You Asked For 🤷\n\nClick [GOOGLE] Button And Find The Correct Movie/Series Name And Enter It Here ⤵️\n\nIf You Do Not Receive The Movie/Series Even After Entering The Correct Name Then Your Requested Movie/Series Does Not Exit In My Database 🗄</b>"""
 
 REQUEST_MESSAGE = """
 **Requested By:** {mention}\n**Requested Name:** {query}\n™ {group_name}"""
