@@ -27,16 +27,16 @@
 START_MESSAGE = """
 <i><b>Hello 👋 {mention},</b>
 
-<b>I Am Not Only <a href='http://t.me/LatestTkEntertainment_Bot'>𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
+<b>I Am Not Only <a href='http://t.me/LatestTkEntertainment_Bot'>𝙏𝙆 𝙀𝙉𝙏 𝘽𝙊𝙏 2.0</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲 𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
 
-<b>Better You Click Below & Join 𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻 & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
+<b>Better You Click Below & Join 𝑻𝑲 𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻 & Feel The Experience Of Downloading Unlimited Movies/Series ✅</b>
 
 <b>For More Information Click ℹ️ Help</b></i>"""
 
 HELP_MESSAGE = """
 <i><b>Hello 👋 {mention},</i></b>
 
-<i><b>I can Guide You Through All Of <a href="https://t.me/LatestTkEntertainment_Bot">𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules.</i></b>"""
+<i><b>I can Guide You Through All Of <a href="https://t.me/LatestTkEntertainment_Bot">𝙏𝙆 𝙀𝙉𝙏 𝘽𝙊𝙏 2.0</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules.</i></b>"""
 
 ABOUT_MESSAGE = """<b>
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.0
@@ -91,8 +91,25 @@ STATUS_MESSAGE = """
 × 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂 : {users}\n× 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂 : {files}\n× 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂 : {chats}"""
 
 GETFILE_TEXT = """
-𝙷𝙴𝚈 {mention} 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝙸𝚂 𝚁𝙴𝙰𝙳𝚈
-\n𝙵𝙸𝙻𝙴𝙽𝙰𝙼𝙴 : `{file_name}`\n\n𝙵𝙸𝙻𝙴𝚂𝙸𝚉𝙴 : {file_size}"""
+<b>╭──[ミ★ TK ENTERTAINMENT ★彡]──╮
+
+├• 👋 𝑯𝒆𝒍𝒍𝒐 {mention}
+
+├• ✅ 𝐘𝐨𝐮𝐫 𝐅𝐢𝐥𝐞 𝐈𝐬 𝐑𝐞𝐚𝐝𝐲
+
+├• 🎬 𝐓𝐢𝐭𝐥𝐞 : {file_name}
+
+├• 💾 𝐒𝐢𝐳𝐞 : {size}
+
+├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+├• 🤖 <a href ='http://t.me/Panchmisali_7_Bot'>𝗔𝗱𝗺𝗶𝗻 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁
+</a>
+├• 🤖 <a href ='https://t.me/Panchmisali_2_Bot'>𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗕𝗼𝘁</a>
+
+├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= 'https://t.me/Tk_movies_adda'>𝑻𝑲 𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a>
+
+╰──────[ 👑 ]───────╯</b>"""
 
 NOT_SUB = """
 𝙸 𝙻𝙸𝙺𝙴 𝚈𝙾𝚄𝚁 𝚂𝙼𝙰𝚁𝚃𝙽𝙴𝚂𝚂, 𝙱𝚄𝚃 𝙳𝙾𝙽'𝚃 𝙱𝙴 𝙾𝚅𝙴𝚁𝚂𝙼𝙰𝚁𝚃 😤.\n 𝙵𝚒𝚛𝚜𝚝 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 😕"""              
